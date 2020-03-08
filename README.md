@@ -62,6 +62,6 @@ To summarise, it's a Reddit for Entrepreneurs.
 **Note: This is an ongoing full-stack project and this repository contains the code only for the front-end.
 I've only mentioned the entire details for the project,I've yet to implement many of the features and yet to use many of the technologies mentioned.**
 
-* *Recent Readme Update : 3rd March 2020
+* *Recent Readme Update : 3rd March 2020*
 
 
