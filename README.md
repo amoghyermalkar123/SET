@@ -1,4 +1,4 @@
-This project is a Startup Ecosystem Network. 
+This is my project called as Startup Ecosystem Network. It's my first Full-Stack Project.
 It's a social media network for startups in their various phases, for entrepreneurs, for various VC Funds, Angel Investors.
 To summarise, it's a Reddit for Entrepreneurs.
 ## Project Details
