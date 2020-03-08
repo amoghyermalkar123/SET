@@ -1,68 +1,62 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Startup Ecosystem Network. 
+It's a social media network for startups in their various phases, for entrepreneurs, for various VC Funds, Angel Investors.
+To summarise, it's a Reddit for Entrepreneurs.
+## Project Details
+* There's an Ecosystem Feed for each and every entity in this system
+    - Entities like : 
+      - Startups in their various Phases
+      - VC Funds
+      - Angel Investors
+      - Startup Accelerator Programs
+      - Startup Incubators
+      - Universities
+      - And many many more..
+* There's an "Explore" feature which is backed by a recommendation engine.
+    - Recommendations include :
+      - Other relevant startups
+      - VC funds,
+      - Investors
+      - Communities (What are they? See Below)
+* There are Communities : Communities are just like how they otherwise generally are. A community of like minded people. Only here, there are communities of like minded individual entreprenurs and startups.
+* Notifications to see:
+    - Who upvoted your post
+    - Recent activites that took in your ecosystem.
+    - Who joined your ecosystem
+* There are two more features :
+    - Ideas and Research
+      - A web crawling engine that crawls the internet to recommend a startup recent ideas, innovations, research, awareness, news about
+        their domains.
+    - Trend Analysis 
+      - A backend compute engine that runs 24/7 nd analyses recent trends in an ecosystem, in a network of ecosystems, or geographically
+      - Combined with recommender engines it would suggest organizations to check out these trends.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+### `Technology Stack`
+# Front-End :
+* Html
+* css
+* ReactJS
+  - Semantic UI
+  - Shard React
+  - Bootstrap
+  - Material UI
+* WebPack
+* Axios (For HTTP requests)
+* GraphQL clients
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Back-End :
+* Python 
+* Django
+* MySQL
+* MongoDB
+* GraphQL
+* NodeJS
+* ExpressJS
+* Redis
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**Note: This is an ongoing full-stack project and this repository contains the code only for the front-end**
+**I've mentioned the entire details, I've yet to implement many of the features and yet to use many of the technologies mentioned**
+**Recent Readme Update : 3rd March 2020**
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
