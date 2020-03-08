@@ -1,0 +1,47 @@
+
+ul, ol{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.fixed{
+    position: fixed;
+}
+.rel {
+    position: relative;
+}
+.bl {
+    display: block;
+}
+.ibl li, .ibl{
+    display: inline-block;
+}
+.noul{
+    text-decoration: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fontl {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.fontb {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.s15{
+    font-size: 15px;
+}
+.s16{
+    font-size: 16px;
+}
+
+.anim{
+    transition: all 0.2s linear 0s;
+}

@@ -1,0 +1,302 @@
+.wrapper {
+  padding-left: 40px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+}
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+button,
+img,
+input,
+b,
+u,
+i,
+ol,
+ul,
+li,
+form,
+label,
+figcaption,
+footer,
+header,
+menu,
+nav,
+section,
+summary,
+time {
+  margin: 0;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding: 0;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  border: 0;
+  border-top-color: currentcolor;
+  border-top-style: none;
+  border-top-width: 0px;
+  border-right-color: currentcolor;
+  border-right-style: none;
+  border-right-width: 0px;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-left-color: currentcolor;
+  border-left-style: none;
+  border-left-width: 0px;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  font-size: 100%;
+  font: inherit;
+  font-style: inherit;
+  font-variant-caps: inherit;
+  font-weight: inherit;
+  font-stretch: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  font-size-adjust: inherit;
+  font-kerning: inherit;
+  font-optical-sizing: inherit;
+  font-variant-alternates: inherit;
+  font-variant-east-asian: inherit;
+  font-variant-ligatures: inherit;
+  font-variant-numeric: inherit;
+  font-variant-position: inherit;
+  font-language-override: inherit;
+  font-feature-settings: inherit;
+  font-variation-settings: inherit;
+  vertical-align: baseline;
+}
+.postContainer {
+}
+.heading {
+    display: inline;
+}
+
+.subHeaderContainer {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+        flex-direction: row;
+        flex-wrap: wrap;
+    margin : 2px 2px 2px 2px;
+}
+
+.subHeader{
+    font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+-ms-flex-align: center;
+align-items: center;
+color: inherit;
+margin : 3px 3px 3px 3px;
+
+}
+
+.whoPosted{
+    -ms-flex: 0 0 auto;
+flex: 0 0 auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+margin-right: 3px;
+}
+
+.ShitSpace{
+    padding-bottom: 8px;
+}
+
+.amamamoasjia{
+    flex: 0 0 auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+margin:  3px 3px 3px 3px;
+padding: 8px 8px 8px 8px;
+}
+
+.LaksnasJDIWH {
+    display: inline-block;
+    padding: 8px 8px 8px 8px;
+
+-ms-flex: 0 0 auto;
+
+flex: 0 0 auto;
+
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+}
+.pointsContainer {
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 100%;
+  left: 0;
+  padding: 8px 4px 8px 0;
+  padding-top: 8px;
+  padding-right: 4px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+  position: absolute;
+  top: 0;
+}
+
+.pointContent {
+  -ms-flex-align: center;
+  align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  fill: inherit;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.pointCount {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  pointer-events: none;
+  word-break: normal;
+}
+
+.voteButton {
+  height: 24px;
+  width: 24px;
+}
+
+.btnSpan {
+  display: inline-block;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 24px;
+  width: 24px;
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  cursor: pointer;
+}
+
+button {
+  background: transparent;
+  background-color: transparent;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-image: none;
+  background-size: auto;
+  background-origin: padding-box;
+  background-clip: border-box;
+  border: none;
+  border-top-color: currentcolor;
+  border-top-style: none;
+  border-top-width: medium;
+  border-right-color: currentcolor;
+  border-right-style: none;
+  border-right-width: medium;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+  border-left-color: currentcolor;
+  border-left-style: none;
+  border-left-width: medium;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  color: inherit;
+  cursor: pointer;
+  padding: initial;
+  padding-top: initial;
+  padding-right: initial;
+  padding-bottom: initial;
+  padding-left: initial;
+}
+
+.contentInContainer {
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  padding: 8px;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+}
+
+.contentRightSpan {
+  margin-left: 8px;
+  -ms-flex: 1 1 100%;
+
+  flex: 1 1 100%;
+
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+
+  position: relative;
+
+  word-break: break-word;
+}
+
+.titleContainer {
+  display: inline;
+  position: relative;
+  text-decoration: none;
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  text-decoration-color: currentcolor;
+  text-decoration-thickness: auto;
+  word-break: break-word;
+}
+
+.titleDiv {
+  font-size: 16px;
+
+  font-weight: 500;
+
+  line-height: 20px;
+  display: inline;
+
+  padding-right: 5px;
+
+  word-wrap: break-word;
+
+  overflow-wrap: break-word;
+}
